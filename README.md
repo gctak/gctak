@@ -5,11 +5,11 @@ I'm a Computer Engineering Student at the University of Uberaba. I'm transmascul
 
 ### Languages and Tools 💻
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="Python" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="80" height="80"/>
-  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="50" height="50"/>
 </div>
 
 ### GitHub Status 😼
@@ -23,16 +23,16 @@ I'm a Computer Engineering Student at the University of Uberaba. I'm transmascul
 ### Reach me   📫
 <div>
   <a href="https://www.linkedin.com/in/giovanna-takingami-18642126b">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="80" height="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
   <a href="https://www.instagram.com/gctak/?igshid=visnud4ue88f">
-    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram" width="80" height="80"/>
+    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram" width="50" height="50"/>
   </a>
   <a href="mailto:eng.takingami@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" width="80" height="80"/>
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" width="50" height="50"/>
   </a>
   <a href="https://www.duolingo.com/profile/GCTak?via=share_profile_link">
-    <img src="https://img.icons8.com/?size=100&id=jJS472JMXlsE&format=png&color=000000" alt="Duolingo" width="80" heigth="80"/>
+    <img src="https://img.icons8.com/?size=100&id=jJS472JMXlsE&format=png&color=000000" alt="Duolingo" width="50" heigth="50"/>
   </a>
 </div>
 <h2 align="center">
