@@ -10,6 +10,7 @@ I'm a Computer Engineering Student at the University of Uberaba. I'm transmascul
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="80" height="80"/>
+  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="80" height="80"/>
 </div>
 
 ### GitHub Status 😼
@@ -31,10 +32,13 @@ I'm a Computer Engineering Student at the University of Uberaba. I'm transmascul
   <a href="mailto:eng.takingami@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" width="50" height="50"/>
   </a>
+  <a href="https://www.duolingo.com/profile/GCTak?via=share_profile_link">
+    <img src="https://img.icons8.com/?size=100&id=jJS472JMXlsE&format=png&color=000000" alt="Duolingo" width="50" heigth="50"/>
+  </a>
 </div>
-
-##  Thank you for visiting my profile! See you later!
-<div>
-  <img src="https://github.com/user-attachments/assets/d2d4adab-583e-45c1-9248-c820bcb988cf"/>
+<h2 align="center">
+  <strong>Thank you for visiting my profile! See you later!</strong>
+</h2>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d2d4adab-583e-45c1-9248-c820bcb988cf" width="500" height="500"/>
 </div>
-
