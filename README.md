@@ -1,7 +1,8 @@
 # Hi there 👋
 ### About me
-My name is Giovanni, but you can call me Gi.  
-I'm a Computer Engineering Student at the University of Uberaba. I'm transmasculine and my pronouns are he/him.
+My name is Giovanni, but you can call me Gi. As a transmasculine individual, I use he/him pronouns.
+
+I'm a Computer Engineering student at the University of Uberaba. I'm dedicated to continuous learning and regularly take courses on Alura and Udemy to expand my knowledge and skills.
 
 ### Languages and Tools 💻
 <div>
