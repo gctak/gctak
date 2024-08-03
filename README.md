@@ -37,7 +37,7 @@ I'm a Computer Engineering student at the University of Uberaba. I'm dedicated t
   </a>
 </div>
 <h2 align="center">
-  <strong>Thank you for visiting my profile! See you later!</strong>
+  <strong>Thanks for visiting my profile! See you later!</strong>
 </h2>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d2d4adab-583e-45c1-9248-c820bcb988cf" width="500" height="500"/>
