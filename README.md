@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my GitHub profile!</h1>
+# Hi there 👋
 ### About me
 My name is Giovanni, but you can call me Gi.  
 I'm a Computer Engineering Student at the University of Uberaba. I'm transmasculine and my pronouns are he/him.
