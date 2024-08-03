@@ -40,5 +40,5 @@ I'm a Computer Engineering student at the University of Uberaba. I'm dedicated t
   <strong>Thanks for visiting my profile! See you later!</strong>
 </h2>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d2d4adab-583e-45c1-9248-c820bcb988cf" width="500" height="500"/>
+  <img src="https://github.com/user-attachments/assets/d41a1a17-1ee4-4672-abaf-eb374699094a" width="500" height="500"/>
 </div>
