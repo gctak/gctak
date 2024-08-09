@@ -35,6 +35,9 @@ I'm a Computer Engineering student at the University of Uberaba. I'm dedicated t
   <a href="https://www.duolingo.com/profile/GCTak?via=share_profile_link">
     <img src="https://img.icons8.com/?size=100&id=jJS472JMXlsE&format=png&color=000000" alt="Duolingo" width="50" heigth="50"/>
   </a>
+    <a href="https://www.twitch.tv/gctak">
+    <img src="https://img.icons8.com/?size=100&id=oRv985gg84Rj&format=png&color=000000" alt="Twitch" width="50" heigth="50"/>
+  </a>
 </div>
 <h2 align="center">
   <strong>Thanks for visiting my profile! See you later!</strong>
