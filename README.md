@@ -1,6 +1,6 @@
 # Hi there 👋
 ### About me
-My name is Giovanni, but you can call me Gi. As a transmasculine individual, I use he/him pronouns.
+My name is Giovanna, but you can call me Gi. As a transmasculine individual, I use he/him pronouns.
 
 I'm a Computer Engineering student at the University of Uberaba. I'm dedicated to continuous learning and regularly take courses on Alura and Udemy to expand my knowledge and skills.
 
@@ -11,6 +11,8 @@ I'm a Computer Engineering student at the University of Uberaba. I'm dedicated t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="50" heigth="50"/>        
 </div>
 
 ### GitHub Status 😼
