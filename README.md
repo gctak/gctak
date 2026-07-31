@@ -62,11 +62,11 @@ Here's the boring part.
   </a>
 </div>
 
-<br><br>
+<hr>
 
 <div align="center">
-  Thanks for stopping by
+    
+  ### Thanks for stopping by
   
-  See you around! 👋  
-  
+  ### See you around! 👋
 </div>
