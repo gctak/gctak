@@ -13,15 +13,15 @@ I'm **Giovanna**, a Computer Science student at the University of Uberaba (UNIUB
 
 You've just stepped into my organized chaos - a place where you’ll probably stumble upon work-in-progress projects, experiments, random ideas, and lots of code that gets better one commit at a time. 
 
-So watch your step...you might find something weird. 👀
+So watch your step... you might find something weird. 👀
 
 My long-term goal is to build a career in **Cybersecurity**. 
 
 Until then, I'm focused on strengthening my computer science fundamentals and turning ideas into real projects.
 
-**One last thing**
+**One last thing:**
 
-> **Disclaimer:**
+> **Disclaimer**
 > 
 > Before you judge the code you'll find around here...
 > 
@@ -31,7 +31,7 @@ Until then, I'm focused on strengthening my computer science fundamentals and tu
 >
 > Yeah... that's pretty much my learning strategy.
 > 
-> Fortunately, Google, documentation, ChatGPT, and the occasional energy drink make a pretty good team.
+> Fortunately, Google, documentation, ChatGPT, and the occasional energy drink usually get the job done.
 
 So, now that you know a little about me...
 
@@ -60,17 +60,13 @@ Here's the boring part.
   <a href="https://www.instagram.com/gctak/?igshid=visnud4ue88f">
     <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram" width="50" height="50"/>
   </a>
-  <a href
 </div>
 
-<div align="center">
-  
-  Well...
-  
-  Thanks for stopping by.
-  
-  I hope you enjoy exploring this organized chaos as much as I enjoy creating it.
-  
-  See you around! 👋
+<br><br>
 
+<div align="center">
+  Thanks for stopping by
+  
+  See you around! 👋  
+  
 </div>
