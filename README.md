@@ -31,7 +31,7 @@ Until then, I'm focused on strengthening my computer science fundamentals and tu
 >
 > Yeah... that's pretty much my learning strategy.
 > 
-> Fortunately, Google, documentation, ChatGPT, and the occasional energy drink usually get the job done.
+> Fortunately, Google, documentation, ChatGPT, Claude AI and the occasional energy drink usually get the job done.
 
 So, now that you know a little about me...
 
