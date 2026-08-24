@@ -60,6 +60,12 @@ Here's the boring part.
   <a href="https://www.instagram.com/gctak/?igshid=visnud4ue88f">
     <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram" width="50" height="50"/>
   </a>
+  <a href="https://invite.duolingo.com/profile-share/GCTak?via=share_profile_qrEsse é o meu perfil. Me adiciona lá! https://invite.duolingo.com/profile-share/GCTak?via=share_profile_qr">
+    <img src="https://img.icons8.com/?size=100&id=jJS472JMXlsE&format=png&color=000000" alt="Duolingo" width="50" height="50">
+  </a>
+  <a href="https://open.spotify.com/user/fuj18chcpxzo0mqzikoekvgdb?si=64c0e58439e14c18">
+    <img src="https://img.icons8.com/?size=100&id=WqbHQ1d7sdKN&format=png&color=000000" alt="Spotify" width="50 height="50">
+  </a>
 </div>
 
 <hr>
