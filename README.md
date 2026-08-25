@@ -41,7 +41,7 @@ Here's the boring part.
 
 <p align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=gctak&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gctak&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Top Languages"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gctak&layout=compact&langs_count=7&theme=transparent&hide_border=true" alt="Top Languages"/>
 </p>
 
 ### 🛠️ Tools & Technologies I've Worked With
