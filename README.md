@@ -2,7 +2,7 @@
 
 > **Status**
 >
-> `███████░░░  Learning by doing...`
+> `■■■■■■□□□□ Learning by doing...`
 
 You're probably wondering: 
 - *"How did I get here?"* or *"Where am I?"*
@@ -40,8 +40,8 @@ Here's the boring part.
 ### 📈 GitHub at a Glance
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=gctak&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gctak&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top Languages"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=gctak&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gctak&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top Languages"/>
 </p>
 
 ### 🛠️ Tools & Technologies I've Worked With
@@ -51,7 +51,8 @@ Here's the boring part.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48"/>        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48"/>        
 </p>
 
 ### 📫 You know where to find me
